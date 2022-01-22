@@ -43,10 +43,10 @@ In case the data generation per day goes above 3gb, your data generation is goin
 
 Interesting video from Yieldbot (an advertising company)
 - <https://www.elastic.co/videos/building-lambda-architecture-elasticsearch-yieldbot>
-- <https://www.elastic.co/guide/en/elasticsearch/guide/current/doc-values.html>
+- <https://www.elastic.co/guide/en/elasticsearch/guide/current/index.html>
 
 Other important links
-- <http://lambda-architecture.net/>
-- <http://voltdb.com/products/alternatives>
-- <https://www.mapr.com/developercentral/lambda-architecture>
-- <https://2014.nosql-matters.org/cgn/wp-content/uploads/2013/02/ArealtimeLambdaArchitectureusingHadoopStormNoSQL14-Nathan-B.pdf>
+- <https://en.wikipedia.org/wiki/Lambda_architecture>
+- <https://www.infoq.com/interviews/marz-lambda-architecture/>
+- <https://databricks.com/glossary/lambda-architecture>
+- <https://eng.uber.com/kappa-architecture-data-stream-processing/>
