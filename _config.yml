@@ -1,17 +1,17 @@
 # Setup
-title:               Lanyon
-tagline:             'A Jekyll theme'
-description:         'A reserved <a href="https://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:                 http://lanyon.getpoole.com
-baseurl:             ''
+title:               Akhil's Blog
+tagline:             'Blog for thoughts, essays and views'
+description:         'A journey through tech, product & sans'
+url:                 http://akhil.blog
+baseurl:             'http://agrawalakhil.github.io/akhil.blog'
 paginate:            5
 permalink:           pretty
 
 # About/contact
 author:
-  name:              Mark Otto
-  url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
+  name:              Akhil Agrawal
+  url:               https://twitter.com/akhilbharatiya
+  email:             akhilatmail@gmail.com
 
 # Gems
 plugins:
