@@ -15,53 +15,53 @@ To see it in action, here is an example of test driven development for Erlang - 
 
 ### Requests
 <pre>
-  Request type    | Key            | Description
- ==========================================================================
-                  | imdbId         | IMDB movie identifier
-  register        | availableSeats | Total seats available for this movie
-                  | screenId       | Externally managed identifier of
-                  |                | when and where the movie is screened
- -----------------+----------------+---------------------------------------
-                  | imdbId         | IMDB movie identifier
-  reserve         | screenId       | Externally managed identifier of
-                  |                | when and where the movie is screened
- -----------------+----------------+---------------------------------------
-                  | imdbId         | IMDB movie identifier
-  retrieve        | screenId       | Externally managed identifier of
-                  |                | when and where the movie is screened 
- -----------------+----------------+---------------------------------------
+Request type   | Key            | Description
+========================================================================
+               | imdbId         | IMDB movie identifier
+ register      | availableSeats | Total seats available for this movie
+               | screenId       | Externally managed identifier of
+               |                | when and where the movie is screened
+---------------+----------------+---------------------------------------
+               | imdbId         | IMDB movie identifier
+ reserve       | screenId       | Externally managed identifier of
+               |                | when and where the movie is screened
+---------------+----------------+---------------------------------------
+               | imdbId         | IMDB movie identifier
+ retrieve      | screenId       | Externally managed identifier of
+               |                | when and where the movie is screened 
+---------------+----------------+---------------------------------------
 </pre>
 
 ### Responses
 <pre>
-  Request type | Response                       | Description
- ===========================================================================
-               | ok                             | Registration was successful
-               | {error, missing_fields}        | Fields missing in the request
-  register     | {error, not_allowed}           | Registration is not allowed
-               | {error, exists}                | Movie already exists
-               | {error, Error}                 | Registration failed
- --------------+--------------------------------+-------------------------------
-               | ok                             | Reservation was successful
-               | {error, missing_fields}        | Fields missing in the request
-  reserve      | {error, not_exists}            | Movie was not registered
-               | {error, not_allowed}           | Reservation is not allowed
-               | {error, not_available}         | Seat not available for movie
-               | {error, Error}                 | Reservation failed
- --------------+--------------------------------+-------------------------------
-               | {ok,                           | Retrieval was successful
-               |  {"imdbId": "tt0111161",       | IMDB movie identifier
-               |   "screenId": "screen_123456", | Externally managed identifier
-               |   "movieTitle": "The Movie",   | Movie title
-               |   "availableSeats": 100,       | Total seats available
-               |   "reservedSeats": 50          | Total seats reserved
-               |  }                             |
-               | }                              |
-               | {error, missing_fields}        | Fields missing in the request
-  retrieve     | {error, not_exists}            | Movie was not registered
-               | {error, not_allowed}           | Retrieval is not allowed
-               | {error, Error}                 | Retrieval failed
- --------------+--------------------------------+-------------------------------
+Request type | Response                       | Description
+==============================================================================
+             | ok                             | Registration was successful
+             | {error, missing_fields}        | Fields missing in the request
+ register    | {error, not_allowed}           | Registration is not allowed
+             | {error, exists}                | Movie already exists
+             | {error, Error}                 | Registration failed
+-------------+--------------------------------+-------------------------------
+             | ok                             | Reservation was successful
+             | {error, missing_fields}        | Fields missing in the request
+ reserve     | {error, not_exists}            | Movie was not registered
+             | {error, not_allowed}           | Reservation is not allowed
+             | {error, not_available}         | Seat not available for movie
+             | {error, Error}                 | Reservation failed
+-------------+--------------------------------+-------------------------------
+             | {ok,                           | Retrieval was successful
+             |  {"imdbId": "tt0111161",       | IMDB movie identifier
+             |   "screenId": "screen_123456", | Externally managed identifier
+             |   "movieTitle": "The Movie",   | Movie title
+             |   "availableSeats": 100,       | Total seats available
+             |   "reservedSeats": 50          | Total seats reserved
+             |  }                             |
+             | }                              |
+             | {error, missing_fields}        | Fields missing in the request
+ retrieve    | {error, not_exists}            | Movie was not registered
+             | {error, not_allowed}           | Retrieval is not allowed
+             | {error, Error}                 | Retrieval failed
+-------------+--------------------------------+-------------------------------
 </pre>
 
 To implement this reservation system, when you use test driven development, it will require you to first write tests for API which is the functional aspect. It also requires you to provide tests for your non-functional aspects like fault tolerance using supervisor.
