@@ -23,7 +23,9 @@ Although I am focusing a lot on getting towards bit more organised thinking & de
 
 * Before that worked in pricing & promotions team at Flipkart, leading the engineering team to build data driven platform for doing pricing & giving promotions. 
 
-* Before that was running software development company providing consulting on niche technologies, apart from development of software products & open source projects. Was also doing software product development in digital advertising/marketing domain/social media monitoring & executed technology consulting projects around Java & Adobe Flex.
+* Before that was running software development company Digikrit providing consulting on niche technologies, apart from development of software products & open source projects.
+
+* Also was doing software product development at Bizense in digital advertising/marketing domain/social media monitoring & executed technology consulting projects around Java & Adobe Flex.
 
 * And before that, had worked on SSL VPN (Virtual Private Network) technology in a network security company Aventail (acquired by Sonicwall). Also have experience in java enterprise software development, working for telecom company Qwest.
 
