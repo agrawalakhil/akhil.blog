@@ -47,6 +47,6 @@ Got an opportunity to do a short presentation on tech disruption for the college
 
 <img src="https://akhil.blog/public/images/ifim_event.png" />
 
-* https://www.slideshare.net/digikrit/tech-disruption-technology-disrupting-different-sectors
-* https://hbr.org/2015/12/what-is-disruptive-innovation
-* https://techcrunch.com/2016/03/16/technology-is-disrupting-everything/
+* <https://www.slideshare.net/digikrit/tech-disruption-technology-disrupting-different-sectors>
+* <https://hbr.org/2015/12/what-is-disruptive-innovation>
+* <https://techcrunch.com/2016/03/16/technology-is-disrupting-everything/>
