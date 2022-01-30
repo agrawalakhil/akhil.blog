@@ -1,7 +1,7 @@
 # Setup
 title:               Akhil's Blog
-tagline:             'Thoughts, Essays & Views'
-description:         'A blog on tech, product & sanskrit'
+tagline:             'Thoughts, Ideas, Essays & Views'
+description:         'A blog on tech, product, finance & sanskrit'
 url:                 http://akhil.blog
 baseurl:             ''
 paginate:            5
