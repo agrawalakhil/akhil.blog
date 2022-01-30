@@ -3,6 +3,10 @@ layout: post
 title: Attribution Reporting - Beyond Last Touch Point
 ---
 
+<div class="message">
+  This is a post written in the past and brought here with minor changes only.
+</div>
+
 ## Introduction
 Accurate attribution has become increasingly important aspect in digital advertising due to the fact that users are being reached through multiple channels and touchpoints. And to determine the ROI from a particular channel or touch point, it is extremely important that returns are rightly attributed. This not only helps in better understanding of the results of the campaign already executed but it will also provide a great insight and direction on what should be the media planning for future campaigns.
 

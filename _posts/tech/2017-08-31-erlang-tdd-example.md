@@ -4,7 +4,7 @@ title: Erlang TDD Example
 ---
 
 <div class="message">
-  This is a blog post written in the past and brought here with minor changes only.
+  This is a post written in the past and brought here with minor changes only.
 </div>
 
 Test driven development is truly a very different and useful approach towards development in which you think of the result and define the tests first which gives you clarity not only about the expectation from your program but also the different scenarios that needs to be handled.
