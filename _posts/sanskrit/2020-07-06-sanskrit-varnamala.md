@@ -7,6 +7,8 @@ title: Sanskrit Varnamala
   This is the first post in sanskrit series and there can be some font issues.
 </div>
 
+* Table Of Contents
+{:toc}
 
 ## संस्कृत वर्णमाला (Sanskrit Varnamala)
 This is the first essay in the series on the value (usefulness and uniqueness both) of the Sanskrit Varnamala which needs to be adopted to better enrich the awareness of our speech mechanism and also make it easier to pronounce words accurately in any language. The multiple pronunciation in English or any European language is not just a problem of accent of people (which is the popular belief), its more of the problem of the language design which creates the multiple pronunciations issue. 
