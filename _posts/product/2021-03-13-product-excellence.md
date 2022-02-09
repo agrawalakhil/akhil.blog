@@ -27,6 +27,8 @@ Product thinking is very different from project thinking as the focus areas are 
 * Product is generally driven by vision and roadmap which are loosely scoped while project is driven by charter and plan which are strictly scoped
 * Product focuses more objectives and key results measured through metrics while project focuses more on the delivery (within stipulated time and budget)
 
+<img src="https://www.thoughtworks.com/content/dam/thoughtworks/images/photography/inline-image/insights/blog/product-innovation/blg_inline_shift_it_projects_products_part_1_what_product_01.png" width="720" />
+
 ## Product vs Solution
 Product mindset is very different from solution mindset, solution gives the economy of scope by being closer to solving the specific customer’s problem but product gives economy of scale by solving a common problem faced by many customers. 
 
@@ -48,27 +50,35 @@ Productizing process describes every step in the product's lifecycle from concep
 * Productizing process also enables product team to better adapt to market conditions & feedback which is very important in fast changing world
 * Productizing process is useful to ensure that we are thinking about all steps in product lifecycle and not just limited to certain areas
 
+<img src="http://adaptivemarketing.in/wp-content/uploads/2021/11/pmp-wheel.png" width="720" />
+
 # Customer Focus
 Customer focus is a very critical pivot for leaders to be successful in achieving product excellence, particularly engineering leaders considering they can lose customer focus due to lack of frequent customer interactions. Following are the aspects which are important for this pivot.
 
 ## Customer Context
 Context in which any customer interactions happens is key throughout the customer lifecycle starting from the product discovery to the successful product adoption or churn. This understanding helps in contextual positioning of products which eases product discovery as well helps in better adoption and engagement.
 
-<img>
+<img src="https://akhil.blog/public/images/customer_context.png" width="720" />
 
 ## Customer Empathy
 Customer empathy maps describe what a customer goes through as he/she is trying to complete a task, in a product or brand agnostic way. In other words, customer empathy maps allow you to take a step back from your product and paint a picture of a typical customer’s experience - their needs, expectations, goal, hurdles and behavior as they do their task.
 
+<img src="https://www.interactions.com/wp-content/uploads/2018/10/empathy_map-image-878x1024.jpg" width="720" />
+
 ## Customer Value
 The value customers get from using products or services can be calculated using the customer value proposition canvas which maps customer value creation in the form of gains achieved and pains relieved when getting jobs done.
+
+<img src="https://www.digitalnatives.hu/blog/wp-content/uploads/2020/08/vpc.png" width="720" />
 
 ## Customer Experience
 The customer experience is the perception of the customer formed based on emotion, ease, and effectiveness, when using the product.
 
-<img src="https://akhil.blog/public/images/customer_experience.jpeg" />
+<img src="https://akhil.blog/public/images/customer_experience.jpeg" width="720" />
 
 # Product Strategy
 Product strategy defines what the product aims to achieve and how that supports the organisation, and it also brings product vision & roadmap to life through OKRs and metrics.
+
+<img src="https://www.productfocus.com/wp/wp-content/uploads/2020/07/Strategy-development-process-funnel-574x600.png" width="720" />
 
 ## Market & Competition
 Market definition and market analysis (trends, sentiments) along with the competitive landscape are the inputs for the product strategy and without understanding these it will be difficult to comprehend the product strategy.
@@ -87,7 +97,7 @@ Defining OKRs and metrics for the product is very important for the product deve
 # Domain Knowledge
 Domain knowledge is an important pivot for driving product excellence from experience, all the four components of domain knowledge together help in building deep as well as wider expertise on system, product & business. Broader functional knowledge across org also helps to identify cross team functional issues.
 
-<img src="https://akhil.blog/public/images/domain_knowledge.jpeg" />
+<img src="https://akhil.blog/public/images/domain_knowledge.jpeg" width="720" />
 
 ## Business Domain
 Knowledge, understanding & expertise of different business aspects & relevant metrics
@@ -128,3 +138,6 @@ Knowledge, understanding & expertise of technologies, should be both breadth and
 * [The Power Of Customer Context](https://www.smartfocus.com/en/system/files/the_power_of_customer_context_0.pdf)
 * [Products Over Projects](https://martinfowler.com/articles/products-over-projects.html)
 * [VPs and Directors of Product Management: Finding Excellence](https://www.udemy.com/course/vps-and-directors-of-product-management-finding-excellence/)
+* [What is Product Management, really ?](https://www.linkedin.com/pulse/what-product-management-really-rahul-abhyankar/)
+* [Adaptive Productizing Process](http://adaptivemarketing.in/resources/adaptive-productizing-process/)
+* [Value Proposition Canvas](https://www.digitalnatives.hu/blog/value-proposition-canvas/)
