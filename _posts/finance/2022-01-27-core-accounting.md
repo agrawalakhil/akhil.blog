@@ -214,3 +214,38 @@ Various money movements in general from firm to stockholders, between firm & fin
 How different kinds of statements are linked to each other and how it helps in doing accounting for next week, month or year.
 
 
+## References
+**Chart of Accounts**
+* [Design Your Chart of Accounts](https://support.accountingseed.com/hc/en-us/articles/360016176513-Design-Your-Chart-of-Accounts)
+* [Blog – SoftLedger: Accounting Software and API](https://softledger.com/blog/creating-a-chart-of-accounts)
+
+**Accounting**
+* [Accounting Memento For Entrepreneurs (US GAAP) — Odoo Business 0.1 documentation](https://www.odoo.com/documentation/functional/accounting.html)
+* [Accounting Applications - Banana Accounting Software](https://www.banana.ch/doc/en/node/7687)
+
+**Double Entry Bookkeeping**
+* [Books, an immutable double-entry accounting database service](https://developer.squareup.com/blog/books-an-immutable-double-entry-accounting-database-service/)
+* [Bookkeeping - Outline - AccountingCoach](https://www.accountingcoach.com/bookkeeping/outline)
+* [A Relatively Painless Guide to Double-Entry Accounting](https://bench.co/blog/accounting/double-entry-accounting/)
+
+**Accounting System**
+* [Cash Basis Accounting vs. Accrual Accounting - Bench Accounting](https://bench.co/blog/accounting/cash-vs-accrual-accounting/)
+* [Golden Rules of Accounting - Overview & Types](https://cleartax.in/s/accounting-golden-rules)
+
+**Foreign Currency**
+* [Guide to multi-currency accounting](https://cdn2.hubspot.net/hubfs/2304371/Product_Docs/Guide_to_Brightpearl_multi-currency_accounting_1.0.pdf)
+
+**Accounting Equation**
+* [Expanded Accounting Equation - Overview, Formula, Examples](https://corporatefinanceinstitute.com/resources/knowledge/accounting/expanded-accounting-equation/)
+* [What is the expanded accounting equation? - AccountingCoach](https://www.accountingcoach.com/blog/expanded-accounting-equation)
+* [The Basic Accounting Equation - Financial Accounting](https://courses.lumenlearning.com/sac-finaccounting/chapter/the-basic-accounting-equation/)
+
+**Books**
+* [Fundamentals Of Corporate Finance](https://www.wiley.com/en-us/Fundamentals+of+Corporate+Finance%2C+4th+Edition-p-9781119371434)
+* [Financial Shenanigans](https://www.amazon.in/Financial-Shenanigans-Fourth-Accounting-Gimmicks/dp/126011726X)
+* [Financial Intelligence](https://www.amazon.in/Financial-Intelligence-Revised-Managers-Knowing-ebook/dp/B00AXS5EAK)  
+
+**Udemy Courses**
+* [The Complete Financial Analyst Course 2022 - Udemy](https://www.udemy.com/course/the-complete-financial-analyst-course/)
+* [Financial Accounting - #1 Ranked University: Course 1 of 5 - Udemy](https://www.udemy.com/course/learnaccountingforfree/)
+* [Managerial Accounting- #1 Ranked University: Course 2 of 5 - Udemy](https://www.udemy.com/course/managerial_accounting/)
