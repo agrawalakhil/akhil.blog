@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Individual Development Plan
+comments: true
 ---
 
 <div class="message">
