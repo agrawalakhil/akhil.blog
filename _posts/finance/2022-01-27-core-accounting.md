@@ -213,7 +213,7 @@ Various money movements in general from firm to stockholders, between firm & fin
 ## Relationship Between Financial Statements
 How different kinds of statements are linked to each other and how it helps in doing accounting for next week, month or year.
 
-<img src="https://github.com/agrawalakhil/akhil.blog/blob/gh-pages/public/images/balance_sheet_income_cashflow_retained_earnings.jpeg" width="720" />
+<img src="https://akhil.blog/public/images/balance_sheet_income_cashflow_retained_earnings.jpeg" width="720" />
 
 ## References
 **Chart of Accounts**
