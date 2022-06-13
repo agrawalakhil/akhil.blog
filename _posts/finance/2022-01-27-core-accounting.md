@@ -111,11 +111,11 @@ There are multiple different ways of structuring the chart of accounts and it is
 <table>
   <tr><th rowspan="2">Date</th><th rowspan="2">Description</th><th colspan="2">Transaction Value</th><th rowspan="2">Account Balance</th></tr>
   <tr><th>Income (Credit)</th><th>Expense (Debit)</th></tr>
-  <tr><td>01/01/2022</td><td>Starting Monthly Balance</td><td align="right"></td><td align="right"></td><td align="right">₹100000</td></tr>
-  <tr><td>02/01/2022</td><td>Rent</td><td align="right"></td><td align="right">₹20000</td><td align="right">₹80000</td></tr>
-  <tr><td>03/01/2022</td><td>Invoice Paid (Excel Tech)</td><td align="right">₹50000</td><td align="right"></td><td align="right">₹130000</td></tr>
-  <tr><td>04/01/2022</td><td>Supplies (Furniture)</td><td align="right"></td><td align="right">₹15000</td><td align="right">₹115000</td></tr>
-  <tr><td>05/01/2022</td><td>Ending Monthly Balance</td><td align="right"></td><td align="right"></td><td align="right">₹115000</td></tr>
+  <tr><td>01/01/2022</td><td>Starting Monthly Balance</td><td align="right"></td><td align="right"></td><td align="right">&#8377;100000</td></tr>
+  <tr><td>02/01/2022</td><td>Rent</td><td align="right"></td><td align="right">&#8377;20000</td><td align="right">&#8377;80000</td></tr>
+  <tr><td>03/01/2022</td><td>Invoice Paid (Excel Tech)</td><td align="right">&#8377;50000</td><td align="right"></td><td align="right">&#8377;130000</td></tr>
+  <tr><td>04/01/2022</td><td>Supplies (Furniture)</td><td align="right"></td><td align="right">&#8377;15000</td><td align="right">&#8377;115000</td></tr>
+  <tr><td>05/01/2022</td><td>Ending Monthly Balance</td><td align="right"></td><td align="right"></td><td align="right">&#8377;115000</td></tr>
 </table>
 
 **Double Bookkeeping - Same Example**
@@ -125,11 +125,11 @@ There are multiple different ways of structuring the chart of accounts and it is
 <table>
   <tr><th rowspan="2">Date</th><th rowspan="2">Description</th><th colspan="2">Double Bookkeeping</th><th rowspan="2">Cash Account Balance</th></tr>
   <tr><th>Debits</th><th>Credits</th></tr>
-  <tr><td>01/01/2022</td><td>Starting Monthly Balance</td><td align="right"></td><td align="right"></td><td align="right">₹100000</td></tr>
-  <tr><td>02/01/2022</td><td>Rent</td><td align="right">[Expense][Rent] = ₹20000</td><td align="right">[Asset][Cash] = ₹20000</td><td align="right">₹80000</td></tr>
-  <tr><td>03/01/2022</td><td>Invoice Paid (Excel Tech)</td><td align="right">[Asset][Cash] = ₹50000</td><td align="right">[Revenue][Product] = ₹50000</td><td align="right">₹130000</td></tr>
-  <tr><td>04/01/2022</td><td>Supplies (Furniture)</td><td align="right">[Asset][Fixed] = ₹15000</td><td align="right">[Asset][Cash] = ₹15000</td><td align="right">₹115000</td></tr>
-  <tr><td>05/01/2022</td><td>Ending Monthly Balance</td><td align="right"></td><td align="right"></td><td align="right">₹115000</td></tr>
+  <tr><td>01/01/2022</td><td>Starting Monthly Balance</td><td align="right"></td><td align="right"></td><td align="right">&#8377;100000</td></tr>
+  <tr><td>02/01/2022</td><td>Rent</td><td align="right">[Expense][Rent] = &#8377;20000</td><td align="right">[Asset][Cash] = &#8377;20000</td><td align="right">&#8377;80000</td></tr>
+  <tr><td>03/01/2022</td><td>Invoice Paid (Excel Tech)</td><td align="right">[Asset][Cash] = &#8377;50000</td><td align="right">[Revenue][Product] = &#8377;50000</td><td align="right">&#8377;130000</td></tr>
+  <tr><td>04/01/2022</td><td>Supplies (Furniture)</td><td align="right">[Asset][Fixed] = &#8377;15000</td><td align="right">[Asset][Cash] = &#8377;15000</td><td align="right">&#8377;115000</td></tr>
+  <tr><td>05/01/2022</td><td>Ending Monthly Balance</td><td align="right"></td><td align="right"></td><td align="right">&#8377;115000</td></tr>
 </table>
 
 Double bookkeeping is better for reducing financial errors, managing cash entries correctly (in accrual basis accounting), every transaction needs to have equal debits & credits, this can still result in deficit or surplus on aggregate level (for this the trial balance comes handy).
@@ -153,11 +153,11 @@ The accounting equation is a critical concept to understand and use the double b
 <table>
   <tr><th rowspan="2">Date</th><th rowspan="2">Description</th><th colspan="4">Accounting Equation</th><th rowspan="2">Cash Account Balance</th></tr>
   <tr><th>Assets = </th><th>Liabilities + </th><th>Revenue -</th><th>Expenses</th></tr>
-  <tr><td>01/01/2022</td><td>Starting Monthly Balance</td><td align="right"></td><td align="right"></td><td align="right"></td><td align="right"></td><td align="right">₹100000</td></tr>
-  <tr><td>02/01/2022</td><td>Rent</td><td align="right">[Asset][Cash] = -₹20000 (cr)</td><td align="right"></td><td align="right"></td><td align="right">[Expense][Rent] = +₹20000 (dr)</td><td align="right">₹80000</td></tr>
-  <tr><td>03/01/2022</td><td>Invoice Paid (Excel Tech)</td><td align="right">[Cash] = +₹50000 (dr)</td><td align="right"></td><td align="right">[Product] = +₹50000 (cr)</td><td align="right"></td><td align="right">₹130000</td></tr>
-  <tr><td>04/01/2022</td><td>Supplies (Furniture)</td><td align="right">[Fixed] = +₹15000 (dr) <br />[Cash] = -₹15000 (cr)</td><td align="right"></td><td align="right"></td><td align="right"></td><td align="right">₹115000</td></tr>
-  <tr><td>05/01/2022</td><td>Ending Monthly Balance</td><td align="right"></td><td align="right"></td><td align="right"></td><td align="right"></td><td align="right">₹115000</td></tr>
+  <tr><td>01/01/2022</td><td>Starting Monthly Balance</td><td align="right"></td><td align="right"></td><td align="right"></td><td align="right"></td><td align="right">&#8377;100000</td></tr>
+  <tr><td>02/01/2022</td><td>Rent</td><td align="right">[Asset][Cash] = -&#8377;20000 (cr)</td><td align="right"></td><td align="right"></td><td align="right">[Expense][Rent] = +&#8377;20000 (dr)</td><td align="right">&#8377;80000</td></tr>
+  <tr><td>03/01/2022</td><td>Invoice Paid (Excel Tech)</td><td align="right">[Cash] = +&#8377;50000 (dr)</td><td align="right"></td><td align="right">[Product] = +&#8377;50000 (cr)</td><td align="right"></td><td align="right">&#8377;130000</td></tr>
+  <tr><td>04/01/2022</td><td>Supplies (Furniture)</td><td align="right">[Fixed] = +&#8377;15000 (dr) <br />[Cash] = -&#8377;15000 (cr)</td><td align="right"></td><td align="right"></td><td align="right"></td><td align="right">&#8377;115000</td></tr>
+  <tr><td>05/01/2022</td><td>Ending Monthly Balance</td><td align="right"></td><td align="right"></td><td align="right"></td><td align="right"></td><td align="right">&#8377;115000</td></tr>
 </table> 
 
 ## Accounting System
@@ -213,6 +213,7 @@ Various money movements in general from firm to stockholders, between firm & fin
 ## Relationship Between Financial Statements
 How different kinds of statements are linked to each other and how it helps in doing accounting for next week, month or year.
 
+<img src="https://github.com/agrawalakhil/akhil.blog/blob/gh-pages/public/images/balance_sheet_income_cashflow_retained_earnings.jpeg" width="720" />
 
 ## References
 **Chart of Accounts**
