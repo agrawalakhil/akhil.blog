@@ -7,9 +7,6 @@ title: I-Shaped Learning
   This is a post on I-Shaped learning framework to build expertise
 </div>
 
-* Table Of Contents
-{:toc}
-
 # Overview
 Generally for building technical & engineering expertise, the learning framework which has worked well is something like an I-Shaped Learning where there are three important components of the learning plan which are explained in the diagram below.
 
