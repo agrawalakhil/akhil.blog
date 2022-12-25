@@ -161,6 +161,7 @@ This section is the last and open-ended, it is more like understanding the lands
 
 
 # References
+
 ## Breadth On Fundamentals
 - [Clean Code](https://erik-uus.gitbook.io/clean-code/)
 - [Learning & Thinking Structure](https://akhil.blog/2022/06/07/individual-development-plan/#learning--thinking-structure)
@@ -184,24 +185,29 @@ This section is the last and open-ended, it is more like understanding the lands
 - [Streaming Framework Comparison](https://ceur-ws.org/Vol-2170/paper3.pdf)
 
 ## Depth On A Tech Stack
+
 ### HLD & LLD
 - [Companies Using RFCs or Design Docs and Examples of These - The Pragmatic Engineer](https://blog.pragmaticengineer.com/rfcs-and-design-docs/)
 - [GitHub - donnemartin/system-design-primer: Learn how to design large-scale systems](https://github.com/donnemartin/system-design-primer)
 - [Understanding the architecture - Apache Cassandra 3.0](https://docs.datastax.com/en/cassandra-oss/3.0/cassandra/architecture/archTOC.html)
 - [Apache Kafka Architecture Deep Dive: Introductory Concepts](https://developer.confluent.io/learn-kafka/architecture/get-started/)
+
 ### Design Tradeoffs
 - [Linearizability versus Serializability - Peter Bailis](http://www.bailis.org/blog/linearizability-versus-serializability/)
 - [Consistency Models](https://jepsen.io/consistency)
 - [CockroachDB's consistency model](https://www.cockroachlabs.com/blog/consistency-model/)
+
 ### Decision Log
 - [Go Evolution & Go Design Proposals](https://github.com/golang/proposal/tree/master/design)
 - [The Evolution of Apache Kafka: From In-House Infrastructure to Managed Cloud Service ft. Jay Kreps](https://developer.confluent.io/podcast/the-evolution-of-apache-kafka-ft-jay-kreps/)
 
 ## General
+
 ### Books
 - [Designing Distributed Systems: Patterns and Paradigms for Scalable, Reliable Services Reviews & Ratings](https://www.amazon.in/Designing-Distributed-Systems-Brendan-Burns/dp/1491983647)
 - [Design Patterns: Elements of Reusable Object-Oriented Software](https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612)
 - [Software Architecture Patterns](https://get.oreilly.com/ind_software-architecture-patterns.html)
+
 ### Important Courses
 - [CS50's Introduction to Computer Science - edX](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)
 - [Data Structures - Coursera](https://www.coursera.org/learn/data-structures)
