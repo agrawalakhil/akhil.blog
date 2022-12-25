@@ -166,10 +166,10 @@ This section is the last and open-ended, it is more like understanding the lands
 ### HLD & LLD
 - [Companies Using RFCs or Design Docs and Examples of These - The Pragmatic Engineer](https://blog.pragmaticengineer.com/rfcs-and-design-docs/)
 - [GitHub - donnemartin/system-design-primer: Learn how to design large-scale systems](https://github.com/donnemartin/system-design-primer)
-- [Understanding the architecture | Apache Cassandra 3.0](https://docs.datastax.com/en/cassandra-oss/3.0/cassandra/architecture/archTOC.html)
+- [Understanding the architecture - Apache Cassandra 3.0](https://docs.datastax.com/en/cassandra-oss/3.0/cassandra/architecture/archTOC.html)
 - [Apache Kafka Architecture Deep Dive: Introductory Concepts](https://developer.confluent.io/learn-kafka/architecture/get-started/)
 ### Design Tradeoffs
-- [Linearizability versus Serializability | Peter Bailis](http://www.bailis.org/blog/linearizability-versus-serializability/)
+- [Linearizability versus Serializability - Peter Bailis](http://www.bailis.org/blog/linearizability-versus-serializability/)
 - [Consistency Models](https://jepsen.io/consistency)
 - [CockroachDB's consistency model](https://www.cockroachlabs.com/blog/consistency-model/)
 ### Decision Log
@@ -183,10 +183,10 @@ This section is the last and open-ended, it is more like understanding the lands
 - [Software Architecture Patterns](https://get.oreilly.com/ind_software-architecture-patterns.html)
 ### Important Courses
 - [CS50's Introduction to Computer Science - edX](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)
-- [Data Structures | Coursera](https://www.coursera.org/learn/data-structures)
+- [Data Structures - Coursera](https://www.coursera.org/learn/data-structures)
 - [Divide and Conquer, Sorting and Searching, and Randomized Algorithms - Coursera](https://www.coursera.org/learn/algorithms-divide-conquer)
 - [Learn Algorithm with Online Courses, Classes, & Lessons - edX](https://www.edx.org/learn/algorithms) 
-- [Advanced Data Structures | Electrical Engineering and Computer Science - MIT OpenCourseWare](https://ocw.mit.edu/courses/6-851-advanced-data-structures-spring-2012/) 
+- [Advanced Data Structures - Electrical Engineering and Computer Science - MIT OpenCourseWare](https://ocw.mit.edu/courses/6-851-advanced-data-structures-spring-2012/) 
 - [Advanced Algorithms and Complexity - Coursera](https://www.coursera.org/learn/advanced-algorithms-and-complexity)
 - [Graph Search, Shortest Paths, and Data Structures - Coursera](https://in.coursera.org/learn/algorithms-graphs-data-structures)
 - [Introduction to Graduate Algorithms - Udacity Free Courses](https://www.udacity.com/course/introduction-to-graduate-algorithms--ud401)
