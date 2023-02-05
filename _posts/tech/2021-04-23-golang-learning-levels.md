@@ -12,7 +12,7 @@ title: Golang Learning Levels
 
 ## Background
 
-To build deep expertise on any programming language, one needs to study the language at three levels (increasing in depth) and then only the nuances of the language are understood well to effectively use the language & have good grip on the language.
+To build deep expertise on any programming language, one needs to study the language at three levels (increasing in depth) and then only the nuances of the language are understood well to effectively use the language & get good grip on the language.
 
 Coming from Erlang background, it's very interesting to see some of the features in golang being inspired from Erlang or some evolving towards those in Erlang like
 * Scheduling in golang has moved from cooperative to preemptive scheduling from v1.2
