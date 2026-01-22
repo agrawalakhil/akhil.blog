@@ -17,7 +17,9 @@ Although I am focusing a lot on getting towards bit more organised thinking & de
 
 ## Professional
 
-* Currently at Razorpay, leading engineering team to build scalable financial infrastructure focusing particularly on reconciliation, accounting and pricing.
+* Currently leading the payroll product team at Rippling, earlier was leading the tax platform (tax calculation, tax payments & filing) and finance platform (payments, risk, compliance, accounting, reconciliation).
+
+* Previously at Razorpay, leading engineering team to build scalable financial infrastructure focusing particularly on reconciliation, accounting and pricing.
 
 * Earlier was leading the engineering team at Mobikon, building the largest integrated data-enabled restaurant marketplace and a powerful engagement platform for restaurants. 
 
