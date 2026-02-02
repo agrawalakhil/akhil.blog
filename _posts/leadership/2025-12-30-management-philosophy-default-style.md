@@ -34,7 +34,7 @@ The management focus I have followed has significantly evolved over time, skewin
 
 ## Underlying Principle
 
-But the underlying principle for all the above 2 dimensions is **truth centricity or truth alignment**, which is the most critical aspect I have kept in mind and it's not another independent dimension.
+But the underlying principle for the above 2 dimensions is **truth centricity or truth alignment**, which is the most critical aspect I have kept in mind and it's not another independent dimension.
 
 * **Truth seeking** \- **Information can mislead** \- very popular & common concept, evidence based approach to knowing, experience based learning, not taking words as wisdom & trust as the multiplier or signifier for truth. It basically means knowing the blindspots & pitfalls, having awareness of the unknown, while respecting & acknowledging ignorance. After relying on hearsay information once which then badly backfired, I have ever since ensured that I always have clear evidence in form of screenshot, dashboard, data analysis for statements made. This has acted as a forcing function for truth seeking.  
 * **Truth evangelizing** \- **Be a friend not friendly** \- providing truthful feedback without sugar coating is more helpful than being friendly. A senior individual in general needs frank feedback but also a bit of debate to reflect, as a person with 10+ years experience will not change unless strong self reflection is triggered by something, to focus inward & put effort towards changing both behavioral & situational aspects.  
