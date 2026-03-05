@@ -40,7 +40,7 @@ Across several domains, six recurring dimensions describe the functional intent.
 
 These dimensions are not a checklist, instead they describe a **flow of causality**: *context produces users; users generate use-cases; use-cases demand logic; logic constrains platform; platform enables outcomes.* To the contrary, when this flow is violated like when platform choices precede logic, or metrics precede intent, then systems become brittle.
 
-<div class="small-table">
+<span style="font-size:8px">
 
 | Core Question | High Level Areas | Important Questions | Blind Spots & Pitfalls |
 | :---- | :---- | :---- | :---- |
@@ -51,7 +51,7 @@ These dimensions are not a checklist, instead they describe a **flow of causalit
 | **P – Platform** <br /><br /> What technology choices make the logic executable, and what constraints do they introduce? | Data stores and access patterns. Caching layers and invalidation strategies. Messaging, streaming, and event infrastructure. Deployment topology and service boundaries. Third-party integrations and external dependencies. | What are the dominant access patterns – point lookups, range scans, full-text search, time-series? Does the data model favor relational, document, columnar, or graph storage? Where do caches add value, and what is the invalidation strategy? Are service boundaries aligned with team boundaries and deployment cadence? Which components are on the critical path versus best-effort? | Choosing technologies before understanding logic and access patterns. Introducing caching without a coherent invalidation strategy. Drawing microservice boundaries around technical layers instead of business capabilities. Underestimating the operational cost of every new technology in the stack. Treating third-party APIs as reliable when they are the most common source of production incidents. |
 | **T – Traction** <br /><br /> How will you know the system is succeeding, and what feedback loops drive iteration? | Success metrics tied to business outcomes. Operational health indicators. Adoption and usage signals. Latency, error rate, and throughput SLOs. Feedback loops that inform product and engineering decisions. | What single metric would prove this system is working? Are there leading indicators that predict success before lagging metrics move? What SLOs will trigger engineering action when breached? How will you distinguish system failure from product failure? What instrumentation is needed from day one versus added later? | Defining metrics after launch instead of baking them into the design. Tracking vanity metrics that don't connect to business outcomes. Missing the feedback loop – metrics that no one monitors or acts on. Conflating system health (latency, errors) with product health (engagement, conversion). Setting SLOs without understanding the cost of meeting them. |
 
-</div>
+</span>
 
 ## Non-Functional Reality: How the System Survives & Thrives
 
