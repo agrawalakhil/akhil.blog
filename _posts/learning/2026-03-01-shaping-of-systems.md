@@ -10,7 +10,7 @@ title: Shaping of Systems
 ## Background
 I have always wondered why the **system design as a discipline** has lacked the much required structure, even after so many years have observed that both real life system design thinking as well as the system design interview process are completely thought process driven and less structured thinking & framework driven, the main reason seems to be due to the extremely diverse, along with fast, ever changing & evolving mechanisms used to shape the systems under different requirements, constraints, pressures & trade-offs.
 
-Generally one **framework** would fail to capture the variety of problem & solution space, so the approach followed is more of a **library** of concepts, patterns & learnings along with the ability to choose wisely, through the analytical thought process which is grounded in experience but driven by exploratory learning & logical thinking.
+Generally one **framework** would fail to capture the variety of problem & solution space, so the approach followed is more of a **library** of concepts, patterns & learnings along with the ability to choose wisely, through the analytical thought process which is grounded in experience but driven by problem solving, logical thinking & exploratory learning.
 
 ## Functional Intent Facing Non-Functional Reality
 
