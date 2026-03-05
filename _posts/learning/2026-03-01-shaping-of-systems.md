@@ -67,7 +67,7 @@ Across several domains, there are few recurring dimensions that describe non-fun
 
 This also follows **runtime → operational → evolutionary** phase / stage wise priorities cleanly, which is generally the common prioritization flow across many system life-cycles.
 
-| Phase / Stage | Concerns | Dimensions |
+| Phase | Concerns | Dimensions |
 | :---- | :---- | :---- |
 | Runtime | Can users reach it? How fast? What when it breaks? | A \- Availability, P \- Performance, R \- Resilience |
 | Operational | Can you see what's happening? Can you change it safely? Is it correct & trustworthy? | O \- Observability, M \- Maintainability, I \- Integrity |
