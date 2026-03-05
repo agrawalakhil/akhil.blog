@@ -40,7 +40,7 @@ Across several domains, six recurring dimensions describe the functional intent.
 
 These dimensions are not a checklist, instead they describe a **flow of causality**: *context produces users; users generate use-cases; use-cases demand logic; logic constrains platform; platform enables outcomes.* To the contrary, when this flow is violated like when platform choices precede logic, or metrics precede intent, then systems become brittle.
 
-<div style="font-size: 8px;">
+<div class="small-table">
 
 | Core Question | High Level Areas | Important Questions | Blind Spots & Pitfalls |
 | :---- | :---- | :---- | :---- |
