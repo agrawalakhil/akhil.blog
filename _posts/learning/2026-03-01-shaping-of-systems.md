@@ -7,6 +7,12 @@ title: Shaping of Systems
   This post is on why real systems take the shapes they inevitably do.
 </div>
 
+<style>
+  table, th, tr {
+    font-size: 8px
+  }
+</style>
+
 ## Background
 I have always wondered why the **system design as a discipline** has lacked the much required structure, even after so many years have observed that both real life system design thinking as well as the system design interview process are completely thought process driven and less structured thinking & framework driven, the main reason seems to be due to the extremely diverse, along with fast, ever changing & evolving mechanisms used to shape the systems under different requirements, constraints, pressures & trade-offs.
 
@@ -39,8 +45,6 @@ Across several domains, six recurring dimensions describe the functional intent.
 * **Traction** – the feedback loop that validates continued existence.
 
 These dimensions are not a checklist, instead they describe a **flow of causality**: *context produces users; users generate use-cases; use-cases demand logic; logic constrains platform; platform enables outcomes.* To the contrary, when this flow is violated like when platform choices precede logic, or metrics precede intent, then systems become brittle.
-
-<span style="font-size:8px">
 
 | Core Question | High Level Areas | Important Questions | Blind Spots & Pitfalls |
 | :---- | :---- | :---- | :---- |
