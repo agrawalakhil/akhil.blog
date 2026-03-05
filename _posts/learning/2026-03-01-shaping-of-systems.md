@@ -4,7 +4,7 @@ title: Shaping of Systems
 ---
 
 <div class="message">
-  This post is to try to explain why real systems take the shapes they inevitably do.
+  This post is on why real systems take the shapes they inevitably do.
 </div>
 
 ## Background
