@@ -29,6 +29,8 @@ This essay proposes a way to reason about systems by separating **functional int
 * **SCULPT** describes *functional intent* – what the system exists to do.  
 * **A-PROMISES** describes *non-functional reality* – how the system must behave to survive production.
 
+<img src="https://akhil.blog/public/images/ShapingOfSystems.jpeg" />
+
 Together, they can replace ad-hoc design intuition based only on experience with slightly more structured reasoning based intuition about tensions and trade-offs along with explicitly calling out assumptions. 
 
 ## Functional Intent: Why the System Exists
